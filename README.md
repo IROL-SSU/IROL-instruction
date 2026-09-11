@@ -6,6 +6,8 @@
 
 ## 전체 시스템 구성
 
+![IROL 시스템 구성도 — 실험 PC 1 Ubuntu·ROS, 로봇·센서 및 개인 개발 환경](./assets/irol-system-diagram.png)
+
 ### 구성 요소의 역할
 
 | 구성 요소 | 문서에서 정리할 내용 | 확인할 사항 |
