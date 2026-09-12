@@ -203,6 +203,4 @@ qtcreator-*
 COLCON_IGNORE
 AMENT_IGNORE
 
-__local_context/
-
 # End of https://www.toptal.com/developers/gitignore/api/python,ros2
