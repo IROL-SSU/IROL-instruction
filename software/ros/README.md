@@ -1,6 +1,6 @@
 # ROS 2 Humble 설치
 
-[전체 안내로 돌아가기](../README.md)
+[전체 안내로 돌아가기](../../README.md)
 
 Ubuntu 22.04에 ROS 2 Humble Desktop 전체 구성을 설치하고 `~/.bashrc`에 환경 설정을 추가합니다.
 

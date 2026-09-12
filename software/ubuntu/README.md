@@ -1,6 +1,6 @@
 # Ubuntu 22.04 설치
 
-[전체 안내로 돌아가기](../README.md)
+[전체 안내로 돌아가기](../../README.md)
 
 실험 PC에 Ubuntu 22.04 Desktop을 설치하고, NVIDIA 드라이버와 ROS 2를 설치할 수 있는 상태까지 준비합니다.
 
